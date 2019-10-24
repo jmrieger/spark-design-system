@@ -7,7 +7,6 @@ import { SprkAccordionComponent } from './sprk-accordion.component';
 
 export default {
   title: 'Components|Accordions',
-  component: SprkAccordionModule,
 };
 
 const modules = {

@@ -2,7 +2,6 @@ import { SprkButtonModule } from './sprk-button.module';
 
 export default {
   title: 'Components|Buttons',
-  component: SprkButtonModule,
  };
 
 const modules = {

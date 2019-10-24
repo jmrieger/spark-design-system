@@ -5,7 +5,6 @@ import { SprkDropdownComponent } from './sprk-dropdown.component';
 
 export default {
   title: 'Components|Dropdown',
-  component: SprkDropdownModule,
 };
 
 const modules = {

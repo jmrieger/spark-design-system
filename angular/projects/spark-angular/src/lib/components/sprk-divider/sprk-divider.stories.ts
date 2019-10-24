@@ -2,7 +2,6 @@ import { SprkDividerModule } from './sprk-divider.module';
 
 export default {
   title: 'Components|Divider',
-  component: SprkDividerModule,
 };
 
 const modules = {

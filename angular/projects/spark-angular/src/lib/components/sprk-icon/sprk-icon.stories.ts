@@ -2,7 +2,6 @@ import { SprkIconModule } from './sprk-icon.module';
 
 export default {
   title: 'Components|Icons',
-  component: SprkIconModule,
 };
 
 const modules = {
